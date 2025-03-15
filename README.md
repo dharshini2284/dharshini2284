@@ -10,29 +10,15 @@
 
 ## 🚀 Tech Stack:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,react,html,css,nodejs,mongodb,mysql,flask,aws,docker,git" />
-</p>
-
----
-
-## 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dharshini2284&show_icons=true&theme=radical" alt="Dharshini's GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dharshini2284&theme=radical" alt="GitHub Streak" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharshini2284&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,react,html,css,nodejs,mongodb,mysql,flask,git" />
 </p>
 
 ---
 
 ## 🌎 Connect With Me:
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
+  <a href="https://www.linkedin.com/in/dharshini-a-s/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://twitter.com/YOUR-TWITTER-HANDLE">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
   <a href="https://github.com/dharshini2284">
     <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white">
